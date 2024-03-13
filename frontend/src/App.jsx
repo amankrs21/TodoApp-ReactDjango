@@ -2,8 +2,8 @@ import React from "react";
 import { Route, Routes } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
 
-import Home from "./pages/home/home";
-import Login from "./pages/users/login";
+import Home from "./pages/home/Home";
+import Login from "./pages/users/Login";
 import PrivateRoute from "./components/PrivateRoute";
 import GetTodoList from "./pages/todolist/GetTodoList";
 

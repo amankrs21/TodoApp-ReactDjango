@@ -6,3 +6,4 @@ class TodoListSerializer(ModelSerializer):
     class Meta:
         model = TodoList
         fields = "__all__"
+

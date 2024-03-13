@@ -10,7 +10,7 @@ import { Stack, Table, TableBody, TableCell } from "@mui/material";
 import { TableContainer, TableHead, TableRow } from "@mui/material";
 
 import AuthUser from "../AuthUser";
-import Navigation from "../../components/navigation";
+import Navigation from "../../components/Navigation";
 import AddTodoList from "./AddTodoList";
 import DeleteTodoList from "./DeleteTodoList";
 import UpdateTodoList from "./UpdateTodoList";
